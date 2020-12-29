@@ -1,0 +1,20 @@
+20-12-29 10:18:06.022- INFO: Initialize driver board dll success. 
+20-12-29 10:18:06.029- INFO: The <Open function> is called. 
+20-12-29 10:18:06.029- INFO: Open serial port successed. 
+20-12-29 10:18:06.030- INFO: The <GetNeedState function> is called. board id 0. 
+20-12-29 10:18:07.582-ERROR: Get need state failed. error code is -2. 
+20-12-29 10:18:33.896- INFO: Initialize driver board dll success. 
+20-12-29 10:18:33.903- INFO: The <Open function> is called. 
+20-12-29 10:18:33.904- INFO: Open serial port successed. 
+20-12-29 10:18:33.906- INFO: The <GetNeedState function> is called. board id 0. 
+20-12-29 10:18:35.457-ERROR: Get need state failed. error code is -2. 
+20-12-29 10:18:45.870- INFO: Initialize driver board dll success. 
+20-12-29 10:18:45.876- INFO: The <Open function> is called. 
+20-12-29 10:18:45.877- INFO: Open serial port successed. 
+20-12-29 10:18:45.878- INFO: The <GetNeedState function> is called. board id 0. 
+20-12-29 10:18:47.428-ERROR: Get need state failed. error code is -2. 
+20-12-29 10:19:53.274- INFO: Initialize driver board dll success. 
+20-12-29 10:19:53.281- INFO: The <Open function> is called. 
+20-12-29 10:19:53.282- INFO: Open serial port successed. 
+20-12-29 10:19:53.283- INFO: The <GetNeedState function> is called. board id 0. 
+20-12-29 10:19:54.835-ERROR: Get need state failed. error code is -2. 

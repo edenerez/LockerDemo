@@ -1,0 +1,110 @@
+19-04-24 16:10:12.518- INFO: Initialize driver board dll success. 
+19-04-24 16:10:12.529- INFO: The <Open function> is called. 
+19-04-24 16:10:12.530- INFO: Open serial port successed. 
+19-04-24 16:10:21.263- INFO: The <OpenBox function> is called. board id 0, box id 1. 
+19-04-24 16:10:21.415- INFO: Open box successed. Article: 0-无物 
+19-04-24 16:18:19.266- INFO: Initialize driver board dll success. 
+19-04-24 16:18:19.275- INFO: The <Open function> is called. 
+19-04-24 16:18:19.275- INFO: Open serial port successed. 
+19-04-24 16:18:21.485- INFO: The <OpenBox function> is called. board id 0, box id 1. 
+19-04-24 16:18:21.636- INFO: Open box successed. Article: 0-无物 
+19-04-24 16:18:23.895- INFO: The <OpenBox function> is called. board id 0, box id 1. 
+19-04-24 16:18:23.953- INFO: Open box successed. Article: 0-无物 
+19-04-24 16:18:32.694- INFO: The <OpenBox function> is called. board id 0, box id 1. 
+19-04-24 16:18:32.846- INFO: Open box successed. Article: 0-无物 
+19-04-24 16:18:42.008- INFO: The <GetNeedState function> is called. board id 0. 
+19-04-24 16:18:42.160- INFO: Get need state success.Article:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Open:0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0, 
+19-04-24 16:18:42.161- INFO: The <GetNeedState function> is called. board id 0. 
+19-04-24 16:18:42.260- INFO: Get need state success.Article:0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Open:0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0, 
+19-04-24 16:19:07.684- INFO: The <GetNeedState function> is called. board id 0. 
+19-04-24 16:19:07.741- INFO: Get need state success.Article:1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Open:0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0, 
+19-04-24 16:19:07.741- INFO: The <GetNeedState function> is called. board id 0. 
+19-04-24 16:19:07.842- INFO: Get need state success.Article:1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Open:0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0, 
+19-04-24 16:19:08.796- INFO: The <GetNeedState function> is called. board id 0. 
+19-04-24 16:19:08.949- INFO: Get need state success.Article:1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Open:0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0, 
+19-04-24 16:19:08.950- INFO: The <GetNeedState function> is called. board id 0. 
+19-04-24 16:19:09.050- INFO: Get need state success.Article:1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Open:0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0, 
+19-04-24 16:19:09.484- INFO: The <GetNeedState function> is called. board id 0. 
+19-04-24 16:19:09.553- INFO: Get need state success.Article:1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Open:0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0, 
+19-04-24 16:19:09.553- INFO: The <GetNeedState function> is called. board id 0. 
+19-04-24 16:19:09.655- INFO: Get need state success.Article:1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Open:0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0, 
+19-04-24 16:19:09.671- INFO: The <GetNeedState function> is called. board id 0. 
+19-04-24 16:19:09.756- INFO: Get need state success.Article:1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Open:0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0, 
+19-04-24 16:19:09.756- INFO: The <GetNeedState function> is called. board id 0. 
+19-04-24 16:19:09.857- INFO: Get need state success.Article:1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Open:0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0, 
+19-04-24 16:19:09.895- INFO: The <GetNeedState function> is called. board id 0. 
+19-04-24 16:19:09.957- INFO: Get need state success.Article:1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Open:0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0, 
+19-04-24 16:19:09.957- INFO: The <GetNeedState function> is called. board id 0. 
+19-04-24 16:19:10.058- INFO: Get need state success.Article:1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Open:0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0, 
+19-04-24 16:19:10.206- INFO: The <GetNeedState function> is called. board id 0. 
+19-04-24 16:19:10.358- INFO: Get need state success.Article:1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Open:0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0, 
+19-04-24 16:19:10.359- INFO: The <GetNeedState function> is called. board id 0. 
+19-04-24 16:19:10.459- INFO: Get need state success.Article:1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Open:0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0, 
+19-04-24 16:19:10.461- INFO: The <GetNeedState function> is called. board id 0. 
+19-04-24 16:19:10.561- INFO: Get need state success.Article:1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Open:0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0, 
+19-04-24 16:19:10.563- INFO: The <GetNeedState function> is called. board id 0. 
+19-04-24 16:19:10.662- INFO: Get need state success.Article:1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Open:0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0, 
+19-04-24 16:20:38.380- INFO: Initialize driver board dll success. 
+19-04-24 16:20:38.394- INFO: The <Open function> is called. 
+19-04-24 16:20:38.394- INFO: Open serial port successed. 
+19-04-24 16:20:50.640- INFO: The <GetNeedState function> is called. board id 0. 
+19-04-24 16:20:50.793- INFO: Get need state success.Article:1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Open:1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0, 
+19-04-24 16:20:58.347- INFO: The <GetNeedState function> is called. board id 0. 
+19-04-24 16:20:58.499- INFO: Get need state success.Article:1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Open:1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0, 
+19-04-24 16:21:15.911- INFO: The <GetNeedState function> is called. board id 0. 
+19-04-24 16:21:16.064- INFO: Get need state success.Article:1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Open:1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0, 
+19-04-24 16:21:17.256- INFO: The <GetNeedState function> is called. board id 0. 
+19-04-24 16:21:17.374- INFO: Get need state success.Article:1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Open:1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0, 
+19-04-24 16:22:13.088- INFO: Initialize driver board dll success. 
+19-04-24 16:22:13.095- INFO: The <Open function> is called. 
+19-04-24 16:22:13.096- INFO: Open serial port successed. 
+19-04-24 16:22:24.412- INFO: The <GetNeedState function> is called. board id 0. 
+19-04-24 16:22:24.562- INFO: Get need state success.Article:1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Open:1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0, 
+19-04-24 16:22:26.567- INFO: The <GetNeedState function> is called. board id 0. 
+19-04-24 16:22:26.675- INFO: Get need state success.Article:1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Open:1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0, 
+19-04-24 16:22:39.839- INFO: The <GetNeedState function> is called. board id 0. 
+19-04-24 16:22:39.990- INFO: Get need state success.Article:1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Open:1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0, 
+19-04-24 16:22:39.991- INFO: The <GetNeedState function> is called. board id 0. 
+19-04-24 16:22:40.091- INFO: Get need state success.Article:1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Open:1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0, 
+19-04-24 16:22:42.943- INFO: The <OpenBox function> is called. board id 0, box id 1. 
+19-04-24 16:22:43.012- INFO: Open box successed. Article: 1-有物 
+19-04-24 16:22:44.932- INFO: The <OpenBox function> is called. board id 0, box id 2. 
+19-04-24 16:22:45.084- INFO: Open box successed. Article: 1-有物 
+19-04-24 16:22:47.140- INFO: The <GetNeedState function> is called. board id 0. 
+19-04-24 16:22:47.199- INFO: Get need state success.Article:1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Open:0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0, 
+19-04-24 16:22:47.200- INFO: The <GetNeedState function> is called. board id 0. 
+19-04-24 16:22:47.300- INFO: Get need state success.Article:1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Open:0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0, 
+19-04-24 16:22:57.022- INFO: The <GetNeedState function> is called. board id 0. 
+19-04-24 16:22:57.173- INFO: Get need state success.Article:1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Open:0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0, 
+19-04-24 16:22:57.173- INFO: The <GetNeedState function> is called. board id 0. 
+19-04-24 16:22:57.274- INFO: Get need state success.Article:1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Open:0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0, 
+19-04-24 16:24:33.598- INFO: Initialize driver board dll success. 
+19-04-24 16:24:33.605- INFO: The <Open function> is called. 
+19-04-24 16:24:33.605- INFO: Open serial port successed. 
+19-04-24 16:24:35.911- INFO: The <GetNeedState function> is called. board id 0. 
+19-04-24 16:24:36.063- INFO: Get need state success.Article:1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Open:0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0, 
+19-04-24 16:24:36.064- INFO: The <GetNeedState function> is called. board id 0. 
+19-04-24 16:24:36.164- INFO: Get need state success.Article:1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Open:0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0, 
+19-04-24 16:24:53.859- INFO: The <Close function> is called. 
+19-04-24 16:24:53.861- INFO: Uninstall driver board dll success. 
+19-04-24 16:25:36.869- INFO: Initialize driver board dll success. 
+19-04-24 16:25:36.876- INFO: The <Open function> is called. 
+19-04-24 16:25:36.876- INFO: Open serial port successed. 
+19-04-24 16:25:38.357- INFO: The <GetNeedState function> is called. board id 0. 
+19-04-24 16:25:38.509- INFO: Get need state success.Article:1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Open:0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0, 
+19-04-24 16:25:38.510- INFO: The <GetNeedState function> is called. board id 0. 
+19-04-24 16:25:38.610- INFO: Get need state success.Article:1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Open:0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0, 
+19-04-24 16:25:51.717- INFO: The <GetNeedState function> is called. board id 0. 
+19-04-24 16:25:51.805- INFO: Get need state success.Article:1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Open:1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0, 
+19-04-24 16:25:51.805- INFO: The <GetNeedState function> is called. board id 0. 
+19-04-24 16:25:51.905- INFO: Get need state success.Article:1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Open:1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0, 
+19-04-24 16:25:55.765- INFO: The <OpenBox function> is called. board id 0, box id 2. 
+19-04-24 16:25:55.834- INFO: Open box successed. Article: 0-无物 
+19-04-24 16:25:57.564- INFO: The <OpenBox function> is called. board id 0, box id 1. 
+19-04-24 16:25:57.716- INFO: Open box successed. Article: 1-有物 
+19-04-24 16:25:58.901- INFO: The <GetNeedState function> is called. board id 0. 
+19-04-24 16:25:59.026- INFO: Get need state success.Article:1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Open:0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0, 
+19-04-24 16:25:59.026- INFO: The <GetNeedState function> is called. board id 0. 
+19-04-24 16:25:59.126- INFO: Get need state success.Article:1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Open:0,0,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,0,0,0,0,0,0,0, 
+19-04-24 16:26:08.898- INFO: The <Close function> is called. 
+19-04-24 16:26:08.900- INFO: Uninstall driver board dll success. 
