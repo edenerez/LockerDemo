@@ -117,6 +117,8 @@ namespace WpfApp1
 
         private void Button_Click_3(object sender, RoutedEventArgs e)
         {
+            Button current_box = ((Button)sender);
+            current_box.Background = new SolidColorBrush(Color.FromRgb(255, 0, 0));
             if (elocker != null)
             {
                
